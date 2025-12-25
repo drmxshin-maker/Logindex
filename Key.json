@@ -1,7 +1,34 @@
 {
-  "aa": "2024-12-31",
-  "expired": "2025-12-30",
-  "cc": "2024-10-15",
-  "dd": "2024-12-25",
-  "ff": "2024-12-30"
+  "dialog_enable": true,
+  "online_enable": true,
+
+  "title": "Premium Login",
+  "descriptions": [
+    "Welcome to Premium Access.",
+    "Enter your password to continue.",
+    "Make sure your device is registered."
+  ],
+
+  "button_login": "Login",
+  "button_admin": "Admin",
+  "button_copy": "Copy ID",
+  "admin_url": "https://google.com",
+
+  "device_section": [
+    {
+      "device_id": "offline-device",
+      "password": "1122",
+      "expire_date": "2025-12-31"
+    },
+    {
+      "device_id": "offline-device",
+      "password": "3344",
+      "expire_date": "2026-01-15"
+    },
+    {
+      "device_id": "offline-device",
+      "password": "1234",
+      "expire_date": "2026-01-01"
+    }
+  ]
 }
