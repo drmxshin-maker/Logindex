@@ -16,13 +16,13 @@
 
   "device_section": [
     {
-      "device_id": "offline-device",
-      "password": "1122",
+      "device_id": "c73cf2379f0b06f6",
+      "password": "onlinekey",
       "expire_date": "2025-12-31"
     },
     {
       "device_id": "offline-device",
-      "password": "3344",
+      "password": "offlinekey",
       "expire_date": "2026-01-15"
     },
     {
